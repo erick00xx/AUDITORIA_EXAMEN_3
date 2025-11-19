@@ -1,0 +1,16 @@
+Política de Teletrabajo - EPIS Corp
+
+1. Propósito
+EPIS Corp ofrece un modelo de trabajo híbrido para promover la flexibilidad y el equilibrio entre la vida laboral y personal. Esta política establece las directrices para los empleados que deseen trabajar de forma remota.
+
+2. Elegibilidad
+Todos los empleados con una antigüedad mínima de 6 meses en la empresa pueden solicitar acogerse al modelo de teletrabajo. La solicitud debe ser aprobada por el manager directo, quien evaluará la idoneidad del puesto y el desempeño del empleado. Ciertos roles que requieren presencia física en la oficina no son elegibles.
+
+3. Equipamiento y Conectividad
+La empresa proporcionará el equipamiento necesario para el desempeño de las funciones, incluyendo un ordenador portátil, un monitor y un teclado. El empleado es responsable de garantizar una conexión a internet estable y de alta velocidad (mínimo 50 Mbps) y un espacio de trabajo ergonómico y seguro en su domicilio. Los gastos de conexión a internet no serán reembolsados.
+
+4. Proceso de Solicitud
+Para solicitar el teletrabajo, el empleado debe rellenar el formulario "Solicitud de Trabajo Remoto" disponible en el portal interno de RRHH. El manager tiene un plazo de 15 días hábiles para dar una respuesta.
+
+5. Normas de Seguridad
+Es obligatorio que todos los empleados que trabajen de forma remota se conecten a la red de la empresa exclusivamente a través de la VPN corporativa "ACME Connect". Está prohibido almacenar información sensible de la empresa en dispositivos personales.

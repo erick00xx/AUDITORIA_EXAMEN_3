@@ -1,0 +1,22 @@
+Procedimientos Internos Clave - EPIS Corp
+
+1. Acceso a las Instalaciones Fuera de Horario Laboral
+El horario laboral estándar es de lunes a viernes, de 08:00h a 20:00h. Cualquier empleado que necesite acceder a las oficinas fuera de este horario deberá seguir el siguiente protocolo:
+- Enviar una solicitud por correo electrónico al manager de su departamento con al menos 48 horas de antelación.
+- En el correo se debe especificar la fecha, la hora de entrada y salida estimada, y el motivo del acceso.
+- Una vez aprobado por el manager, este reenviará la autorización al departamento de seguridad.
+- El acceso solo será concedido si la autorización de seguridad ha sido confirmada. El acceso en fines de semana se trata como acceso fuera de horario.
+
+2. Uso de Vehículos de Empresa
+Los vehículos de la flota de EPIS Corp están disponibles para viajes de trabajo autorizados.
+- La reserva de un vehículo se debe realizar a través del portal "ACME Mobility" con un mínimo de 72 horas de antelación.
+- Solo los empleados con un permiso de conducir válido y con una antigüedad superior a un año pueden solicitar un vehículo.
+- El uso de los vehículos para fines personales está estrictamente prohibido.
+- Los vehículos deben ser devueltos con el depósito de combustible lleno. El gasto de combustible será reembolsado siguiendo la política de gastos general.
+
+3. Solicitud de Material de Oficina
+Todo el material de oficina (papelería, consumibles, etc.) debe solicitarse a través del portal "ACME Supplies".
+- Los pedidos se procesan los lunes y los jueves.
+- Los pedidos inferiores a S/. 100 son aprobados automáticamente.
+- Cualquier pedido que supere los S/. 100 en una sola solicitud requerirá la aprobación explícita del manager del departamento.
+- El tiempo de entrega estimado es de 3 a 5 días hábiles.
