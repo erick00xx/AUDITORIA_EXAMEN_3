@@ -54,9 +54,23 @@ def main():
 
     print(f"\n4. Creando base de datos vectorial en '{VECTOR_STORE_DIR}'...")
     
+    # if os.path.exists(VECTOR_STORE_DIR):
+    #     print(f"Eliminando la antigua base de datos vectorial en '{VECTOR_STORE_DIR}'...")
+    #     shutil.rmtree(VECTOR_STORE_DIR)
+    
+    # CÓDIGO CORREGIDO
     if os.path.exists(VECTOR_STORE_DIR):
-        print(f"Eliminando la antigua base de datos vectorial en '{VECTOR_STORE_DIR}'...")
-        shutil.rmtree(VECTOR_STORE_DIR)
+        print(f"Limpiando la antigua base de datos vectorial en '{VECTOR_STORE_DIR}'...")
+        # En lugar de borrar la carpeta (que está bloqueada por Docker), borramos su contenido
+        for filename in os.listdir(VECTOR_STORE_DIR):
+            file_path = os.path.join(VECTOR_STORE_DIR, filename)
+            try:
+                if os.path.isfile(file_path) or os.path.islink(file_path):
+                    os.unlink(file_path)
+                elif os.path.isdir(file_path):
+                    shutil.rmtree(file_path)
+            except Exception as e:
+                print(f'No se pudo borrar {file_path}. Razón: {e}')
         
     vector_store = Chroma.from_documents(
         documents=chunks,
